@@ -2,22 +2,18 @@ wdp
 ===
 This repo will contain all the code in both the lib and the main plugin.
 
-Latest Beta:
-N/A
+===
+Latest Beta: N/A
 
+===
 Latest Stable:
 http://dev.bukkit.org/bukkit-plugins/wardrobeplus/
 
-Build notes:
-N/A
+===
+Build notes: N/A
 
-Dontate:
+===
+Dontate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SMAWFCCL6QJJQ
 
-<script src="paypal-button.min.js?merchant=lkpmods@gmail.com"
-    data-button="donate"
-    data-name="WDP-LIB open source contribution"
-    data-amount="1.00"
-    async
-></script>
-
+===
 The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution and edit at will as long as you follow the guidelines on the license page. To view the license click here: http://main.clickpoints.co.uk/@license
