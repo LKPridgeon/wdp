@@ -13,5 +13,8 @@ N/A
 
 Dontate:
 
+<script data-gittip-username="LKPridgeon"
+        data-gittip-widget="button"
+        src="//gttp.co/v1.js"></script>
 
 The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution and edit at will as long as you follow the guidelines on the license page. To view the license click here: http://main.clickpoints.co.uk/@license
