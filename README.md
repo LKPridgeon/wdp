@@ -38,5 +38,6 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SMAWFCCL6QJ
     
 ===
 
-    The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution and edit at will as      long as you follow the guidelines on the license page. To view the license click here:      
-    http://main.clickpoints.co.uk/@license
+    The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution
+    and edit at will as long as you follow the guidelines on the license page. To view the license 
+    click here: http://main.clickpoints.co.uk/@license
