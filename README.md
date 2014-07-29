@@ -1,4 +1,4 @@
-wdp
+![Alt text](http://i.clickpoints.co.uk/wdp-v1.4.png "Optional Title")
 ===
 This repo will contain all the code in both the lib and the main plugin.
 
