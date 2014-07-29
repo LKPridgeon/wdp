@@ -15,7 +15,19 @@ Latest Stable:
 http://dev.bukkit.org/bukkit-plugins/wardrobeplus/
 
 ===
-Build notes: N/A
+V: 1.46 Build Notes:
+
+
+    Permission changes
+    Other armor support
+    Wear blocks on any part of your body
+    General Bug fixes 
+
+
+V: 1.47 Build Notes:
+
+    Minor Bug Fixes
+    Lib Listener updates 
 
 ===
 Dontate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SMAWFCCL6QJJQ
