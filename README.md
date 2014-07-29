@@ -4,6 +4,7 @@ This repo will contain all the code in both the lib and the main plugin.
 
 ===
 Latest Beta: https://github.com/LKPridgeon/wdp/releases/tag/WDP-V1.47
+
 This also includes the compatible library for the build.
 
 ===
