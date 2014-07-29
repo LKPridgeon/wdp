@@ -36,6 +36,6 @@ Dontate:
     
 ===
 
-    The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution
+>    The plugin is licensed under Clickpoints 2014, You are free to share the plugin with attribution
     and edit at will as long as you follow the guidelines on the license page. To view the license 
     visit the license page at: http://main.clickpoints.co.uk/@license
